@@ -1,0 +1,5 @@
+Stylo:1;
+Cartouche:0.5;
+Crayon de Papier x10:2;
+Bouteille d'eau:1;
+Trousse:5;
